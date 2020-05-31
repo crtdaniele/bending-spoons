@@ -7,6 +7,7 @@
 - Gulp4
 
 View the project: https://www.danielecarta.site/projects/bending-spoons/index.html
+
 Open project on iPhone X (in Google Chrome)
 
 by <a href="https://www.linkedin.com/in/daniele-carta-lugano/?locale=it_IT">Daniele Carta</a>
