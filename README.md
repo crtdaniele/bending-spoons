@@ -6,8 +6,8 @@
 - CSS3 (BEM)
 - Gulp4
 
-View the project: https://www.danielecarta.site/projects/bending-spoons/index.html
+Note: Open project on iPhone X (in Google Chrome)
 
-Open project on iPhone X (in Google Chrome)
+<hr />
 
-by <a href="https://www.linkedin.com/in/daniele-carta-lugano/?locale=it_IT">Daniele Carta</a>
+<a href="https://www.linkedin.com/in/daniele-carta-lugano/">Follow me in LinkedIn</a>
